@@ -1,21 +1,24 @@
 body{
 
-    background-color: rgb(184, 184, 184);
+    background-color: rgb(10, 7, 7);
 }
+#paragrafo{
 
+    color: aliceblue;
+}
 #title{
 
     text-align: center;
     margin-right: 500px;
     margin-left: 500px;
-    background-color: black;
+    background-color: rgb(60, 63, 63);
     color: lightseagreen;
 }
 .menu{
 
     margin-right: 1100px;
     
-    background-color: black;
+    background-color: rgb(128, 81, 81);
     color:rgb(15, 185, 228);
 }
 
@@ -38,4 +41,19 @@ body{
 .tamanho{
 
     font-size: 19px;
+}
+
+#h6{
+
+    font-size: 19px;
+
+}
+
+#picanha{
+    
+    position: absolute;
+    width: 250px;
+    left: 110px;   
+    margin-left: 150px;
+    margin-top: -75px;
 }
